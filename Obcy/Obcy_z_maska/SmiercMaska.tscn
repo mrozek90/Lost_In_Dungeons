@@ -1,0 +1,8 @@
+[gd_scene load_steps=2 format=2]
+
+[ext_resource path="res://Obcy/Obcy_z_maska/animacja_smierci.png" type="Texture" id=1]
+
+[node name="SmiercMaska" type="Sprite"]
+texture = ExtResource( 1 )
+hframes = 16
+frame = 6
